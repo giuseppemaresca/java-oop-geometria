@@ -13,7 +13,7 @@ public class Main {
       System.out.print("Inserisci altezza: ");
       figura.altezza=scan.nextInt();
       
-      System.out.println("Il tuo perimetro e': "+ figura.calcolaPerimetro());
+     System.out.println("Il tuo perimetro e': "+ figura.calcolaPerimetro());
       System.out.println("La tua area e': " + figura.calcolaArea());
       
   
